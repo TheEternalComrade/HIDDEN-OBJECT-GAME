@@ -11,8 +11,6 @@ body{
     will be located based on the "top", "left", "right", and "bottom" properties*/
     top:50vh;/*#Object is 50% away from the top of the screen*/
     left:50vw;/*Object is 50% away from the left of the screen*/
-    color: black;
-
 }
 
 
